@@ -1,2 +1,16 @@
 # SheHacks
 Repositório para as produções durante o hackathon She Hacks organizado pelo CodeLab, projeto de extensão universitária para complementar a experiência de estudantes através de hackathons, meetups e cursos
+
+# A ideia
+O nosso projeto é uma plataforma que pretende mostrar os impactos ambientais da vida urbana e conscientizar os cidadãos a fazerem o descarte correto do lixo e terem mais responsabilidade no consumo. A ideia pode ser dividida em duas seções: a gameficação, que engajaria as pessoas a reciclar o lixo do modo correto, além de mostrar os impactos que o consumo excessivo pode trazer. Nesses “jogos”, a partir dos seus acertos, a pessoa vai acumulando pontos, que podem ser transformados tanto em descontos/cupons em marcas parceiras, como na divulgação de iniciativas que o usuário apoie, podendo ser até mesmo a sua própria, dando maior visibilidade a ela. 
+E a outra seção seria utilizada para encontrar postos de descarte, reciclagem ou doação mais próximo da sua localização, contendo também uma área apenas para busca de brechós e lojas que comercializam produtos com viés mais sustentável. Essa seção se comunicaria com a de gameficação, pois ao colaborar com as iniciativas cadastradas na plataforma e avalia-las após o uso, o usuário acumula pontos também.
+
+# Entregas
+ Nesse repositório temos:
+    Um site portifólio para a ideia feito em HTML, CSS E Bootstrap;
+    Protótipos de tela feitas no Adobe XD;
+    Uma demo de um jogo que será implementado na plataforma, feito em C# via Unit;
+    Links para: drive do projeto, visualização do protótipo do app, link para o jogo
+    
+
+    
