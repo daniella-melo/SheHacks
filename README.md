@@ -11,7 +11,7 @@ para visualização do protótipo:
 https://xd.adobe.com/view/2b8d54be-a54e-46b8-bdc8-fee6fd57c38e-7ede/?fullscreen
 
 para visualização o drive do projeto:
-https://drive.google.com/drive/u/1/folders/1zbJvXSvk_oAIBtn9oFg3v7yVWCvZvGcV
+https://drive.google.com/drive/folders/1zbJvXSvk_oAIBtn9oFg3v7yVWCvZvGcV?usp=sharing
     
 
     
